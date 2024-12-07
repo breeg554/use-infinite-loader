@@ -40,12 +40,14 @@
     "npm-preview": "npm pack --dry-run"
   },
   "peerDependencies": {
+    "@remix-run/node": "^2.15.0",
     "@remix-run/react": "^2.15.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.15.0",
+    "@remix-run/node": "^2.15.0",
     "@types/node": "^22.10.1",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
